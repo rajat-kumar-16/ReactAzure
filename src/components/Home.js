@@ -26,6 +26,7 @@ function Home()
           <span class="sr-only">Next</span>
         </a>
       </div>
+      <div><h1> Hi All</h1></div>
     </div>
 }
 export default Home;
